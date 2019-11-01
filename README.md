@@ -1,7 +1,6 @@
-# 22
-
+# vue2循环生成echarts,并可以导出Excel表格 
 > A Vue.js project
-
+## 预览页：https://volodya-01.github.io/vue2_fordata_echarts_exportExcel-/
 ## Build Setup
 
 ``` bash
